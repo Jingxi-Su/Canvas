@@ -1,0 +1,7 @@
+6
+45C:\Users\Lenovo\Desktop\demo\canvas\style.css132621642905322570 0
+40C:\Users\Lenovo\Desktop\demo\canvas\dist132622368065743155 1
+46C:\Users\Lenovo\Desktop\demo\canvas\index.html132622363518908898 0
+59C:\Users\Lenovo\Desktop\demo\canvas\dist\index.f556d9ac.css132622368065703528 0
+63C:\Users\Lenovo\Desktop\demo\canvas\dist\index.f556d9ac.css.map132622368065743155 0
+51C:\Users\Lenovo\Desktop\demo\canvas\dist\index.html132622368065683759 0
